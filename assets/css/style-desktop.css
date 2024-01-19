@@ -1,0 +1,186 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1.5;
+  color: #25a2c3;
+}
+
+h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+
+h3 {
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h4 {
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+}
+
+h5 {
+  font-size: 0.83em;
+  margin-top: 1.67em;
+  margin-bottom: 1.67em;
+}
+
+h6 {
+  font-size: 0.67em;
+  margin-top: 2.33em;
+  margin-bottom: 2.33em;
+}
+
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+header {
+  background-color: black;
+  padding: 2.7rem;
+  text-align: start;
+}
+
+header img {
+  width: 12%;
+}
+
+main button {
+  background-color: #f04c2f;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.8rem 2rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.3rem;
+  font-weight: bold;
+}
+
+footer {
+  color: white;
+  background-color: #25a2c3;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+footer h2 {
+  font-size: 2em;
+}
+
+.title-section {
+  background-image: url(/assets/img/banner.jpg);
+  background-size: contain;
+}
+
+.sections {
+  padding: 4rem;
+  margin: auto;
+}
+
+.notebook-img {
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+
+.w-50 {
+  width: 45%;
+  vertical-align: middle;
+}
+
+.sections-imgs {
+  border: 1px solid #dee1e3;
+  border-radius: 5px;
+}
+
+.sections-imgs img {
+  width: 100%;
+  max-height: 300px;
+  aspect-ratio: 1/1;
+}
+
+.sections-imgs div {
+  padding: 0.2rem 1rem;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.section-orange {
+  background-color: #e32c10;
+  color: white;
+}
+
+.italic {
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.small-font {
+  font-size: 0.8rem;
+}
+
+.padding-y-2 {
+  padding: 1rem 0.5rem;
+  display: inline-block;
+  width: 30%;
+}
+
+.fas {
+  margin-right: 4px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.footer-border {
+  border-top: 1px solid white;
+  margin: 2rem auto;
+  width: 100%;
+}
+
+.footer-text {
+  margin: auto;
+  display: inline-block;
+}
